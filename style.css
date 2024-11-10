@@ -129,3 +129,29 @@ a {
     font-weight: bold;
     align-self: self-end;
 }
+
+.sign-up-box {
+    display: flex;
+    background-color: #3b82f6;
+    margin: 84px 15%;
+    padding: 32px 10%;
+    border: 1px solid #3b82f6;
+    border-radius: 8px; 
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text p {
+    font-size: 18px;
+    color: #F9FAF8;
+    margin: 2px;
+}
+
+.text .sign-up-header {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.sign-up-box .sign-up {
+    border-color: #F9FAF8;
+}
